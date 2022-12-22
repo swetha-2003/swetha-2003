@@ -4,7 +4,7 @@
 
 <h3 align="center">Interested in Learning New Things -- "Everyday is a learning day"</h3>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
