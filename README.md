@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Swetha S</h1>
 
-<h3 align="center">Interested in Web Development -- "Everyday is a learning day"</h3>
+<h3 align="center">Interested in Learning New Things -- "Everyday is a learning day"</h3>
 
 - 🌱 I’m currently learning **Web development**
 
