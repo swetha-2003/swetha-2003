@@ -4,6 +4,10 @@
 
 <h3 align="center">Interested in Learning New Things -- "Everyday is a learning day"</h3>
 
+- 🏅 Grand Finalist of Smart India Hackathon
+
+- 💻 Completed 3 Milestones in Google Cloud Ready Facilitator Program - 2022 
+
 - 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
